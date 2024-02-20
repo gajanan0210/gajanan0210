@@ -1,14 +1,14 @@
 <h2 align="left">Hi 👋! My name is Gajanan Mundhe</h2>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gajanan0210&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gajanan0210&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
-
+-->
 <img align="right" height="150" src="https://blogger.googleusercontent.com/img/a/AVvXsEjcg9W8GWCWkeTw9XEVz1BhZb_5L9QODofbRdiccCtUibxv7ojLiQ_SRjk04fDFVNn085HdJUZwaqjS1PQS5gf-7zRMsujwT_nQGlftYPpQJp4XTw9M_rTTWNmHgTULPSrEa7MNt3AJjEXubugeZKvwVLQ7gL3kgWv0UHe6cnMEvYKZ67nuI0gobj6M9a-S"  />
 
 ###

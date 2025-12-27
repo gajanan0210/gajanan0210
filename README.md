@@ -1,328 +1,245 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gajanan%20Mundhe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=200&section=header&text=Gajanan%20Mundhe&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20|%20Team%20Lead%20|%20Full%20Stack%20Architect&descSize=18&descAlignY=55" width="100%"/>
 
-### 🚀 Senior Software Engineer | Team Lead | Full Stack Architect
+<!-- Animated Typing Text -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=🚀+Building+Scalable+%26+Secure+Systems;💡+Leading+High-Performance+Teams;🏗️+Architecting+Enterprise+Solutions;👨‍🏫+Mentoring+Next-Gen+Developers;⚡+3%2B+Years+of+Innovation+%26+Excellence" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gajanan-mundhe/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gajanan0210)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gajanan-mundhe.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gajananmundhe@example.com)
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/gajanan-mundhe/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/gajanan0210">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://gajanan-mundhe.dev">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:gajananmundhe@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&lines=Building+Scalable+%26+Secure+Systems;Leading+High-Performance+Teams;Architecting+Enterprise+Solutions;Mentoring+Next-Gen+Developers" alt="Typing SVG" />
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=gajanan0210&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
 
 <br/>
 
-</div>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<div align="center">
 
 ## 👨‍💻 About Me
 
-**Senior Software Engineer & Team Lead** with 3+ years of experience building scalable web and mobile applications. I specialize in **React, Next.js, Node.js, and TypeScript**, leading cross-functional teams to deliver enterprise-grade solutions.
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### � S enior Software Engineer & Team Lead
+
+**3+ years** of experience building **scalable web & mobile applications**
+
+💼 Specializing in **React, Next.js, Node.js, TypeScript** & leading cross-functional teams
+
+🎯 Passionate about turning complex problems into elegant, scalable solutions
+
+<br/>
 
 ### 🎯 Core Expertise
 
-**Leadership**: Team management, architecture planning, mentoring developers, code reviews
+- 👥 **Leadership**: Team management, architecture planning, mentoring developers
+- 💻 **Development**: Full-stack applications, RESTful APIs, microservices
+- ☁️ **DevOps**: CI/CD pipelines, AWS, Docker, Nginx
+- 🔐 **Security**: OAuth, JWT, authentication systems
 
-**Development**: Full-stack applications, RESTful APIs, microservices, mobile apps
+<br clear="right"/>
 
-**DevOps**: CI/CD pipelines, AWS, Docker, Nginx, PM2
-
-**Security**: OAuth, JWT, authentication systems, data protection
-
-💡 **Passion**: Turning complex problems into elegant, scalable solutions
-
-<div align="center">
-
-### 🎯 What I Do
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-#### �️ **Architecture & Leadership**
-- Design scalable system architectures
-- Lead cross-functional development teams
-- Conduct sprint planning & code reviews
-- Mentor junior developers
-- Drive technical decision-making
-
-</td>
-<td width="50%">
-
-#### � **Full Stack Development**
-- Build high-performance web applications
-- Develop RESTful APIs & microservices
-- Implement secure authentication systems
-- Optimize database queries & caching
-- Deploy production-ready solutions
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack & Expertise
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-### 💼 **Senior Level Expertise**
-
-<table>
-<tr>
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br><strong>React.js</strong>
-<br><sub>Advanced</sub>
-</td>
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br><strong>Next.js</strong>
-<br><sub>Advanced</sub>
-</td>
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br><strong>Node.js</strong>
-<br><sub>Advanced</sub>
-</td>
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-<br><strong>TypeScript</strong>
-<br><sub>Advanced</sub>
-</td>
-<td align="center" width="12.5%">
-<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-<br><strong>Flutter</strong>
-<br><sub>Advanced</sub>
-</td>
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
-<br><strong>React Native</strong>
-<br><sub>Advanced</sub>
-</td>
-</tr>
-</table>
-
-### 🎨 **Frontend Technologies**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### ⚙️ **Backend Technologies**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🔐 **Security & Authentication**
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-2.0-blue?style=for-the-badge)
-![Passport](https://img.shields.io/badge/Passport-34E27A?style=for-the-badge&logo=passport&logoColor=white)
-
-### ☁️ **DevOps & Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-### 🛠️ **Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 📚 **Other Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gajanan0210&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajanan0210&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="180"/>
+## 🛠️ Tech Stack & Tools
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gajanan0210&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+### 💻 Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,express,redux,tailwind&perline=8&theme=dark" />
+
+### 🗄️ Databases & Backend
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,graphql&perline=6&theme=dark" />
+
+### ☁️ DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,githubactions&perline=6&theme=dark" />
+
+### 📱 Mobile & Tools
+
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,vscode,postman,figma,linux&perline=6&theme=dark" />
 
 </div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gajanan0210&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9)](https://github.com/gajanan0210)
+## � GitHub Analytics
 
 </div>
 
----
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gajanan0210&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gajanan0210&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+</p>
 
-## 🏆 GitHub Achievements
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajanan0210&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gajanan0210&theme=radical&utcOffset=5.5" alt="Productive Time"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gajanan0210&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Graph" width="98%"/>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gajanan0210&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=gajanan0210&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" width="98%"/>
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
 
-## � Featured Projects
+## 🚀 Featured Projects
+
+</div>
 
 <div align="center">
 
 <a href="https://github.com/gajanan0210/express-rest-api-boilerplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gajanan0210&repo=express-rest-api-boilerplate&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gajanan0210&repo=express-rest-api-boilerplate&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%"/>
 </a>
 
 </div>
 
-### 🔥 **Express REST API Boilerplate**
-A production-ready REST API boilerplate using Node.js, Express, MongoDB/MySQL, JWT auth, and scalable folder structure for real-world projects.
+<br/>
 
-**Tech Stack**: Node.js, Express, MongoDB, MySQL, JWT, Docker, CI/CD
+<table>
+<tr>
+<td width="50%" align="center">
 
-**Features**:
-- ✅ JWT Authentication & OAuth
-- ✅ Role-based Access Control
-- ✅ Database Migrations & Seeders
-- ✅ API Documentation (Swagger)
-- ✅ Docker Support
-- ✅ CI/CD Pipeline Ready
+### 🔥 Express REST API Boilerplate
 
----
+Production-ready REST API with Node.js, Express, MongoDB/MySQL, JWT auth & scalable architecture
 
-## 💡 Core Competencies
+**Stack**: Node.js • Express • MongoDB • JWT • Docker
 
-<div align="center">
+</td>
+<td width="50%" align="center">
 
-| **Leadership & Management** | **Technical Skills** | **Development Practices** |
-|:---------------------------:|:--------------------:|:-------------------------:|
-| Team Leadership & Mentorship | Architecture Planning | Full Stack Development |
-| Technical Leadership | Scalable Systems Design | Performance Optimization |
-| Problem-Solving & Decision-Making | Microservices Architecture | Database Optimization |
-| Leading Development Teams | System Design Fundamentals | API Design & Integration |
-| Sprint Planning & Code Reviews | CI/CD Pipelines | Security Implementation |
+### ✨ Key Features
 
-</div>
+✅ JWT & OAuth Authentication  
+✅ Role-based Access Control  
+✅ API Documentation (Swagger)  
+✅ Docker & CI/CD Ready
 
----
+</td>
+</tr>
+</table>
 
-## � Contribution Activity
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gajanan0210&theme=tokyonight" alt="Contribution Graph" width="100%"/>
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
-### 2025 Goals & Objectives
-
-**💻 Technical Growth**
-- 🚀 Master advanced microservices architecture patterns
-- ☁️ Deep dive into AWS cloud services and serverless computing
-- 🤖 Explore AI/ML integration in modern web applications
-- 🌟 Actively contribute to open-source projects and communities
-
-**👥 Leadership & Impact**
-- 🎓 Mentor 10+ junior developers and help them grow
-- 🏗️ Lead architecture decisions for enterprise-scale projects
-- 💪 Build and nurture high-performing development teams
-- 📝 Share knowledge through technical blogs, talks, and workshops
-
-**🎯 Personal Milestones**
-- 📜 Earn AWS Solutions Architect Professional certification
-- 💼 Build and launch SaaS products serving 10K+ users
-- 🎤 Speak at major tech conferences and meetups
-- 🤝 Contribute actively to the developer community
-
----
-
-##  Let's Connect!
-
-<div align="center">
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gajanan-mundhe/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gajanan0210)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gajananmundhe@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gajanan-mundhe.dev)
-
-### 💬 **Open for:**
-- 🤝 Collaboration on innovative projects
-- 💼 Freelance opportunities
-- 🎤 Speaking engagements
-- 👨‍🏫 Mentorship sessions
-- 📝 Technical writing
-
 </div>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 💭 Quote of the Day
+### 🚀 Technical Growth
+
+- 🏗️ Mastering microservices architecture patterns
+- ☁️ Deep diving into AWS & serverless computing
+- 🤖 Exploring AI/ML integration in web apps
+- 🌟 Contributing to open-source projects
+
+</td>
+<td width="50%" valign="top">
+
+### 👥 Leadership & Impact
+
+- 🎓 Mentoring 10+ junior developers
+- 💼 Leading enterprise-scale architecture decisions
+- 📝 Sharing knowledge through blogs & talks
+- 🤝 Building high-performing teams
+
+</td>
+</tr>
+</table>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## � Laet's Connect & Collaborate!
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gajanan-mundhe/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/gajanan0210">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:gajananmundhe@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://gajanan-mundhe.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
----
+### 💬 Open For
 
-## 👀 Profile Views
+🤝 Collaboration • 💼 Freelance • 🎤 Speaking • 👨‍🏫 Mentorship • 📝 Technical Writing
 
-<div align="center">
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gajanan0210&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+### � Daily Inspiration
 
-</div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
 
----
+<br/>
 
-<div align="center">
+### 🌟 "Code is poetry written in logic"
 
-### 🌟 "Code is like humor. When you have to explain it, it's bad." – Cory House
+**⭐ From [Gajanan Mundhe](https://github.com/gajanan0210) • Made with ❤️ and ☕**
 
-**⭐ From [Gajanan Mundhe](https://github.com/gajanan0210) with ❤️**
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>

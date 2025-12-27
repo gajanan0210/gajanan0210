@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=200&section=header&text=Gajanan%20Mundhe&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20|%20Team%20Lead%20|%20Full%20Stack%20Architect&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=200&section=header&text=Hi%20I'm%20Gajanan%20Mundhe&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20|%20Team%20Lead%20|%20Full%20Stack%20Architect&descSize=18&descAlignY=55" width="100%"/>
 
 <!-- Animated Typing Text -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=🚀+Building+Scalable+%26+Secure+Systems;💡+Leading+High-Performance+Teams;🏗️+Architecting+Enterprise+Solutions;👨‍🏫+Mentoring+Next-Gen+Developers;⚡+3%2B+Years+of+Innovation+%26+Excellence" alt="Typing SVG" />

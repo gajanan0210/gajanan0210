@@ -9,7 +9,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gajanan-mundhe.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gajananmundhe@example.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Building+Scalable+%26+Secure+Systems;Leading+High-Performance+Teams;Architecting+Enterprise+Solutions;Mentoring+Next-Gen+Developers" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&lines=Building+Scalable+%26+Secure+Systems;Leading+High-Performance+Teams;Architecting+Enterprise+Solutions;Mentoring+Next-Gen+Developers" alt="Typing SVG" />
+
+<br/>
 
 </div>
 
@@ -17,30 +19,19 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-const gajanan = {
-    role: "Senior Software Engineer | Team Lead",
-    company: "One Union Solutions",
-    location: "Pune, Maharashtra, India",
-    experience: "3+ years",
-    
-    expertise: {
-        leadership: ["Team Management", "Architecture Planning", "Mentoring"],
-        development: ["Full Stack", "Scalable Systems", "Performance Optimization"],
-        devops: ["CI/CD Pipelines", "AWS", "Docker", "Nginx"],
-        security: ["OAuth", "JWT", "System Security"]
-    },
-    
-    currentFocus: [
-        "Leading development teams to deliver robust applications",
-        "Architecting scalable full-stack solutions",
-        "Optimizing system performance and security",
-        "Mentoring developers and conducting code reviews"
-    ],
-    
-    funFact: "I turn coffee ☕ into scalable code 💻"
-};
-```
+**Senior Software Engineer & Team Lead** with 3+ years of experience building scalable web and mobile applications. I specialize in **React, Next.js, Node.js, and TypeScript**, leading cross-functional teams to deliver enterprise-grade solutions.
+
+### 🎯 Core Expertise
+
+**Leadership**: Team management, architecture planning, mentoring developers, code reviews
+
+**Development**: Full-stack applications, RESTful APIs, microservices, mobile apps
+
+**DevOps**: CI/CD pipelines, AWS, Docker, Nginx, PM2
+
+**Security**: OAuth, JWT, authentication systems, data protection
+
+💡 **Passion**: Turning complex problems into elegant, scalable solutions
 
 <div align="center">
 
@@ -83,24 +74,34 @@ const gajanan = {
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="16.66%">
 <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
 <br><strong>React.js</strong>
 <br><sub>Advanced</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="16.66%">
 <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
 <br><strong>Next.js</strong>
 <br><sub>Advanced</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="16.66%">
 <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
 <br><strong>Node.js</strong>
 <br><sub>Advanced</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="16.66%">
 <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
 <br><strong>TypeScript</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+<br><strong>Flutter</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
+<br><strong>React Native</strong>
 <br><sub>Advanced</sub>
 </td>
 </tr>
@@ -188,95 +189,16 @@ const gajanan = {
 
 ---
 
-## � GitHub Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gajanan0210&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=gajanan0210&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 💼 Professional Experience
-
-### 🎯 **Senior Software Engineer | Team Lead**
-**One Union Solutions** | *Oct 2025 - Present*
-
-<details>
-<summary><b>🔹 Key Responsibilities & Achievements</b></summary>
-
-- 👥 **Team Leadership**: Lead a team of developers to deliver robust applications using React.js, Next.js, and Node.js
-- 🏗️ **Architecture Planning**: Designed scalable architecture with mentorship for junior developers
-- ⚡ **Performance Optimization**: Migrated front-end apps to Next.js for improved SEO and performance
-- 🔄 **CI/CD Implementation**: Implemented real-time communication features using Socket.IO and REST APIs
-- 🔐 **Security**: Used Nginx for load balancing, reverse proxy, and SSL setup in production
-- 📊 **Code Quality**: Collaborated with stakeholders across teams to deliver high-impact product features
-
-**Tech Stack**: Node.js, MongoDB, React.js, Next.js, TypeScript, Docker, Git, Nginx, Socket.IO, REST APIs
-
-</details>
-
-### 💻 **Software Developer Level 2 | Full Stack Developer**
-**One Union Solutions** | *Jul 2023 - Sep 2025*
-
-<details>
-<summary><b>🔹 Key Responsibilities & Achievements</b></summary>
-
-- 🚀 **Full Stack Development**: Led full module development with cross-functional teams for requirement analysis
-- 🏛️ **System Architecture**: Designed scalable architecture for new features and improved application performance
-- �‍🏫 **Mentoring**: Mentored junior developers, supported in onboarding, QA, and production delivery
-- 🔍 **Code Quality**: Worked closely with QA for bug tracking, release cycles, and production delivery
-- 🎯 **Database Optimization**: Implemented database optimization techniques
-
-**Tech Stack**: Full Stack Development, Microservices (Basics), System Design, Redux, React Query, JWT/Auth, Docker (Basics), Database Optimization
-
-</details>
-
-### 🌱 **Software Developer**
-**One Union Solutions** | *Feb 2024 - Jun 2024*
-
-<details>
-<summary><b>🔹 Key Responsibilities & Achievements</b></summary>
-
-- 📦 **Feature Development**: Owned features end-to-end planning, development, testing, and delivery
-- 🔌 **API Integration**: Developed and integrated frontend and backend APIs
-- 🗄️ **Database Management**: Worked with databases for schema design and query optimization
-- 👥 **Code Reviews**: Participated in code reviews & improved code quality with best practices
-
-**Tech Stack**: React.js, Next.js, Node.js, Express.js, MongoDB, API Design & Integration, Postman, Git/CI-CD
-
-</details>
-
-### 🎓 **Junior Software Developer**
-**One Union Solutions** | *Jul 2024 - Sep 2024*
-
-<details>
-<summary><b>🔹 Key Responsibilities & Achievements</b></summary>
-
-- 🔨 **Feature Development**: Handled small-to-medium feature development and contributed to small-to-medium feature development
-- ✅ **Testing**: Wrote and executed unit test cases for key components
-- 🐛 **Debugging**: Assisted in debugging and fixing production issues
-- 📚 **Learning**: Learned system architecture, coding standards, and CI/CD basics
-
-**Tech Stack**: React.js, JavaScript, Git, Frontend Debugging
-
-</details>
-
----
-
-## 🎓 Education & Certifications
-
-### 🎓 **Bachelor of Computer Application (BCA)**
-**Jaikranti College of Computer Science & Management Studies, Pune**
-*2021 - 2024*
-
-### 📜 **Certifications**
-- 🏆 **Full Stack Development** - Coding Ninjas
-- 🏆 **Data Structures & Algorithms** - Coding Ninjas
-- 🏆 **Front-End Development** - Coding Ninjas
-
----
 
 ## � Featured Projects
 
@@ -329,36 +251,31 @@ A production-ready REST API boilerplate using Node.js, Express, MongoDB/MySQL, J
 
 ---
 
-## � Current Focus
+## 🎯 Current Focus
 
-```javascript
-const currentGoals = {
-    2025: {
-        technical: [
-            "Master advanced microservices architecture",
-            "Deep dive into AWS cloud services",
-            "Explore AI/ML integration in web apps",
-            "Contribute to open-source projects"
-        ],
-        leadership: [
-            "Mentor 10+ junior developers",
-            "Lead architecture decisions for enterprise projects",
-            "Build high-performing development teams",
-            "Share knowledge through tech blogs & talks"
-        ],
-        personal: [
-            "Earn AWS Solutions Architect certification",
-            "Build SaaS products with 10K+ users",
-            "Speak at tech conferences",
-            "Contribute to developer community"
-        ]
-    }
-};
-```
+### 2025 Goals & Objectives
+
+**💻 Technical Growth**
+- 🚀 Master advanced microservices architecture patterns
+- ☁️ Deep dive into AWS cloud services and serverless computing
+- 🤖 Explore AI/ML integration in modern web applications
+- 🌟 Actively contribute to open-source projects and communities
+
+**👥 Leadership & Impact**
+- 🎓 Mentor 10+ junior developers and help them grow
+- 🏗️ Lead architecture decisions for enterprise-scale projects
+- 💪 Build and nurture high-performing development teams
+- 📝 Share knowledge through technical blogs, talks, and workshops
+
+**🎯 Personal Milestones**
+- 📜 Earn AWS Solutions Architect Professional certification
+- 💼 Build and launch SaaS products serving 10K+ users
+- 🎤 Speak at major tech conferences and meetups
+- 🤝 Contribute actively to the developer community
 
 ---
 
-## � Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 

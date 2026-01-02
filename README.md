@@ -41,7 +41,7 @@
 
 ### � S enior Software Engineer & Team Lead
 
-**3+ years** of experience building **scalable web & mobile applications**
+**1.7+ years** of experience building **scalable web & mobile applications**
 
 💼 Specializing in **React, Next.js, Node.js, TypeScript** & leading cross-functional teams
 
